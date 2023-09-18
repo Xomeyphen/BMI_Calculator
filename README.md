@@ -4,9 +4,9 @@ Homework
 
 Body Mass Index
 
-Write a program that calculates and displays a person’s body mass index (BMI). The
+Write a program that calculates and displays a person’s body mass index (BMI). 
 
-BMI is often used to determine whether a person with a sedentary lifestyle is overweight or underweight for his or her height. A person’s BMI is calculated with the following formula:
+The BMI is often used to determine whether a person with a sedentary lifestyle is overweight or underweight for his or her height. A person’s BMI is calculated with the following formula:
 
 BMI = (Weight  x 703)/ Height^2
 
